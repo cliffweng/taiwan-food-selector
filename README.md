@@ -2,14 +2,14 @@
 
 A gorgeous, high-performance, and Vercel-ready React + Vite single-page application built to help users explore Taiwanese cuisine and easily decide what to eat! 
 
-Designed with a vibrant **"Taiwanese Night Market" (夜市) neon theme**, the application serves as a visual guide and random decider. A single tap/click on any food card copies its Chinese name to the clipboard instantly, complete with a confetti burst and toast notification—making ordering street food at local markets a breeze.
+Designed with a vibrant **"Taiwanese Night Market" (夜市) neon theme**, the application serves as a visual guide and random decider. A single tap/click on any food card copies its Chinese name to the clipboard instantly, complete with a confetti burst and toast notification—making ordering street food at local markets a breeze (or searching it up on Google Maps).
 
 ---
 
 ## ✨ Features
 
 *   **🔮 Destiny Wheel of Fortune:** An interactive, smooth spinning wheel of fortune that picks a random food from your selected category to help you decide what to eat.
-*   **📋 Instant Clipboard Copy:** Click on any food card to instantly copy its traditional Chinese name to your clipboard, allowing you to quickly paste it into search engines, food delivery apps, or show it to street vendors.
+*   **📋 Instant Clipboard Copy:** Click on any food card to instantly copy its traditional Chinese name to your clipboard, allowing you to quickly paste it into search engines, food delivery apps, Google Maps, or show it to street vendors.
 *   **🔍 Live Search:** Instant, client-side filtering matching Chinese characters, English names, Pinyin transliterations, and description keywords.
 *   **🏷️ Category Filters:** Easily filter foods by Classic Mains (`🍜`), Street Snacks (`🍢`), Soups & Stews (`🍲`), Desserts & Sweets (`🍧`), and Drinks & Beverages (`🥤`).
 *   **🎨 Rich Night Market Aesthetics:** Curated neon-obsidian color palette with smooth CSS micro-animations, glassmorphic panels, custom scrollbars, and colorful floating notifications.
@@ -23,6 +23,7 @@ Designed with a vibrant **"Taiwanese Night Market" (夜市) neon theme**, the ap
 *   **Styling:** Vanilla CSS (Tailored HSL neon tokens, glassmorphism, responsive grid layouts, custom keyframes)
 *   **Icons:** Lucide React
 *   **Effects:** Canvas Confetti
+*   **Images:** Locally bundled JPEGs (compressed with `sharp`), sourced from Wikimedia Commons — see [Content Pipeline](#-content-pipeline--photo-credits) below
 *   **Linter:** ESLint (.eslintrc.cjs config)
 *   **Hosting:** Pre-configured for one-click Vercel Deployments (`vercel.json`)
 
@@ -81,12 +82,29 @@ The application is pre-configured with a [vercel.json](vercel.json) file for zer
 
 ---
 
-## 🍲 Included Taiwanese Foods (58 Dishes)
+## 🍲 Included Taiwanese Foods (110 Dishes)
 
-The app contains descriptions, pinyin, English translations, and high-quality photo URLs for the following items:
+Each entry includes a Chinese name, English translation, Pinyin, a short description, and a local photo. All dish data lives in [`src/data/foodData.js`](src/data/foodData.js), organized into five categories:
 
-*   **Classic Mains:** Beef Noodle Soup (牛肉麵), Braised Pork Rice (滷肉飯), Ba-Wan (肉圓), Savory Rice Pudding (碗粿), Oyster Omelette (蚵仔煎), Oyster Vermicelli (蚵仔麵線), Wonton (餛飩), Teppanyaki Steak (鐵板牛排), Savory Soy Milk (鹹豆漿), Qiezai Noodles (切仔麵), Stir-Fried Rice Noodles (炒米粉), Shrimp Fried Rice (蝦米炒飯), Three-Cup Chicken (三杯雞), Scallion Pancake (蔥油餅).
-*   **Street Snacks:** Steamed Pork Belly Bun (刈包), Stinky Tofu (臭豆腐), Giant Fried Chicken Cutlet (炸雞排), Popcorn Chicken (鹽酥雞), Pig's Blood Cake (豬血糕), Sausage Wrapped in Sticky Rice (大腸包小腸), Black Pepper Pork Bun (胡椒餅), Sweet Potato Balls (地瓜球), Taiwanese Egg Crepe (蛋餅), Taiwanese Rice Ball (飯糰), Run Bing (潤餅), Grilled King Oyster Mushroom (醬烤杏鮑菇), Grilled Quail Eggs (烤鳥蛋), Charcoal Grilled Corn (碳烤玉米), Tian Bu La (甜不辣), Iron Eggs (鐵蛋).
-*   **Soups & Stews:** Fuzhou Fish Ball Soup (福州魚丸湯), Milkfish Soup (虱目魚湯), Sesame Oil Pork Kidney (麻油腰花), Angelica Duck Soup (當歸鴨), Stinky Hotpot (臭臭鍋), Hot Pot (火鍋), Pork Rib Soup (排骨湯), Medicinal Pork Ribs Soup (藥燉排骨), Ginger Duck Hot Pot (薑母鴨), Teppanyaki (鐵板燒), Braised Tofu (滷豆腐), Braised Chinese Cabbage (滷白菜), Stir-Fried Sweet Potato Leaves (炒地瓜葉), Stir-Fried White Water Snowflake (炒水蓮).
-*   **Desserts & Sweets:** Taiwanese Shaved Ice (剉冰), Mango Snowflake Ice (芒果雪花冰), Ice and Fire Pineapple Bun (冰火菠蘿), Douhua Tofu Pudding (豆花), Taro Balls (芋圓), Mee Tai Bak with Jelly Dessert (米苔目粉粿), Chocolate Pineapple Bun (巧克力菠蘿麵包), Pineapple Cake (鳳梨酥), Sun Cake (太陽餅), Peanut Roll with Ice Cream (花生捲冰淇淋).
-*   **Drinks & Beverages:** Papaya Milk (木瓜牛奶), Grass Jelly Drink (仙草蜜), Bubble Milk Tea (珍珠奶茶), Winter Melon Tea (冬瓜茶), Guava Juice (芭樂汁), Starfruit Juice (楊桃汁), Brown Rice Milk (糙米漿), Taiwan 18-Days Draft Beer (台灣18天啤酒), Kyoho Grapes (巨峰葡萄).
+| Category | English | Count |
+|---|---|---|
+| 飽胃主食 | Classic Mains | 28 |
+| 夜市小吃 | Street Snacks | 29 |
+| 暖胃湯鍋 | Soups & Stews | 22 |
+| 療癒甜品 | Desserts & Sweets | 18 |
+| 解渴飲品 | Drinks & Beverages | 13 |
+
+To add a new dish, add an entry to `foodData.js` (with a Wikimedia Commons image URL), then run the download pipeline described below to pull, compress, and credit the photo automatically.
+
+---
+
+## 📸 Content Pipeline & Photo Credits
+
+All food photos are downloaded from [Wikimedia Commons](https://commons.wikimedia.org), compressed to web-friendly JPEGs with [`sharp`](https://sharp.pixelplumbing.com/), and stored locally in `public/images/food/` — the app never hotlinks external images, so it isn't affected by upstream files being renamed or deleted.
+
+Reusable scripts live in `scripts/`:
+*   `download-images.mjs` — downloads and resizes an image for every item in `foodData.js`
+*   `fetch-credits.mjs` — pulls author/license metadata from the Commons API for each photo
+*   `generate-credits-md.mjs` — regenerates [`CREDITS.md`](CREDITS.md) from that metadata
+
+Most photos are licensed CC BY / CC BY-SA and require attribution — see [`CREDITS.md`](CREDITS.md) (also linked in the app footer) for the full list of photographers and licenses.

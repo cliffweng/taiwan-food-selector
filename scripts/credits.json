@@ -1,0 +1,882 @@
+[
+  {
+    "id": "beef-noodles",
+    "filename": "Taiwanese_Beef_Noodle_Soup.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Taiwanese_Beef_Noodle_Soup.jpg",
+    "artist": "Jjj84206",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "xiao-long-bao",
+    "filename": "Xiaolongbao_Shanghai.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Xiaolongbao_Shanghai.jpg",
+    "artist": "Robigasp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "yakiniku",
+    "filename": "Yakiniku_002.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Yakiniku_002.jpg",
+    "artist": "Jonathan Lin",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "braised-pork-rice",
+    "filename": "Lurou_fan_by_udono_in_Tamsui,_Taipei.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Lurou_fan_by_udono_in_Tamsui%2C_Taipei.jpg",
+    "artist": "udono from Tamsui, Taipei",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "oyster-omelette",
+    "filename": "Billyfoodoysteromelette.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Billyfoodoysteromelette.jpg",
+    "artist": "Archon6812",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": "ba-wan",
+    "filename": "Hsinchu_Bawan.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Hsinchu_Bawan.jpg",
+    "artist": "Yuriy kosygin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "wa-kuei",
+    "filename": "Savory_rice_pudding_in_Tainan.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Savory_rice_pudding_in_Tainan.jpg",
+    "artist": "Huang Zhen",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0"
+  },
+  {
+    "id": "oyster-vermicelli",
+    "filename": "Oyster_Vermicelli.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Oyster_Vermicelli.jpg",
+    "artist": "Jjj84206",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "wonton",
+    "filename": "Pork_Steamed_Wontons.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Pork_Steamed_Wontons.jpg",
+    "artist": "Sumit Surai",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "teppanyaki-steak",
+    "filename": "Teppanyaki-Steak.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Teppanyaki-Steak.jpg",
+    "artist": "Pilzland",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": "savory-soy-milk",
+    "filename": "Xian_doujiang_Taipei.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Xian_doujiang_Taipei.jpg",
+    "artist": "KQuhen",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "qiezai-noodles",
+    "filename": "賣麵炎仔這家有80年歷史的小吃店裡有全台北最古老的切仔麵、炸得穌酥脆脆的紅燒肉，還有各式琳瑯滿目的黑白切_-_panoramio.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E8%B3%A3%E9%BA%B5%E7%82%8E%E4%BB%94%E9%80%99%E5%AE%B6%E6%9C%8980%E5%B9%B4%E6%AD%B7%E5%8F%B2%E7%9A%84%E5%B0%8F%E5%90%83%E5%BA%97%E8%A3%A1%E6%9C%89%E5%85%A8%E5%8F%B0%E5%8C%97%E6%9C%80%E5%8F%A4%E8%80%81%E7%9A%84%E5%88%87%E4%BB%94%E9%BA%B5%E3%80%81%E7%82%B8%E5%BE%97%E7%A9%8C%E9%85%A5%E8%84%86%E8%84%86%E7%9A%84%E7%B4%85%E7%87%92%E8%82%89%EF%BC%8C%E9%82%84%E6%9C%89%E5%90%84%E5%BC%8F%E7%90%B3%E7%91%AF%E6%BB%BF%E7%9B%AE%E7%9A%84%E9%BB%91%E7%99%BD%E5%88%87_-_panoramio.jpg",
+    "artist": "臺北市大同區公所",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  {
+    "id": "stir-fried-rice-noodles",
+    "filename": "臺式炒米粉_g0v黑客松.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E8%87%BA%E5%BC%8F%E7%82%92%E7%B1%B3%E7%B2%89_g0v%E9%BB%91%E5%AE%A2%E6%9D%BE.jpg",
+    "artist": "g0v.tw 零時政府",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "shrimp-fried-rice",
+    "filename": "Homemade_fried_rice_at_home.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Homemade_fried_rice_at_home.jpg",
+    "artist": "Geoffreyrabbit",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "three-cup-chicken",
+    "filename": "Sanbeiji.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Sanbeiji.jpg",
+    "artist": "Archon6812",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": "scallion-pancake",
+    "filename": "Spring_onion_pancake_2013.JPG",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Spring_onion_pancake_2013.JPG",
+    "artist": "Howard61313",
+    "license": "GFDL",
+    "licenseUrl": "http://www.gnu.org/copyleft/fdl.html"
+  },
+  {
+    "id": "chiayi-chicken-rice",
+    "filename": "TurkeyRiceChiayiTaiwan.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:TurkeyRiceChiayiTaiwan.jpg",
+    "artist": "(WT-shared) Shoestring at wts.wikivoyage",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  {
+    "id": "tube-rice-pudding",
+    "filename": "筒仔米糕,_何家排骨酥,_台北_(14330790184).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E7%AD%92%E4%BB%94%E7%B1%B3%E7%B3%95%2C_%E4%BD%95%E5%AE%B6%E6%8E%92%E9%AA%A8%E9%85%A5%2C_%E5%8F%B0%E5%8C%97_(14330790184).jpg",
+    "artist": "bryan... from Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "braised-pork-knuckle-rice",
+    "filename": "Food_東坡肉飯,_豬腳肉飯,_無刺虱目魚肚,_鄭記豬腳飯,_台北_(18589095569).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Food_%E6%9D%B1%E5%9D%A1%E8%82%89%E9%A3%AF%2C_%E8%B1%AC%E8%85%B3%E8%82%89%E9%A3%AF%2C_%E7%84%A1%E5%88%BA%E8%99%B1%E7%9B%AE%E9%AD%9A%E8%82%9A%2C_%E9%84%AD%E8%A8%98%E8%B1%AC%E8%85%B3%E9%A3%AF%2C_%E5%8F%B0%E5%8C%97_(18589095569).jpg",
+    "artist": "bryan... from Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "zongzi",
+    "filename": "Two_Zongzi.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Two_Zongzi.jpg",
+    "artist": "Stevenliuyi",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "gua-bao",
+    "filename": "Taiwanese_Gua_Bao_@_Bao_&_Bing,_London.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Taiwanese_Gua_Bao_%40_Bao_%26_Bing%2C_London.jpg",
+    "artist": "Kent Wang",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "stinky-tofu",
+    "filename": "Stinkender_Tofu_1.JPG",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Stinkender_Tofu_1.JPG",
+    "artist": "Pilzland",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "fried-chicken-cutlet",
+    "filename": "Fried_chicken_steak_at_Shilin_Market_20070729.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Fried_chicken_steak_at_Shilin_Market_20070729.jpg",
+    "artist": "(WT-en) Ash rex at English Wikivoyage",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  {
+    "id": "popcorn-chicken",
+    "filename": "TWBC_Taiwanese_fried_chicken_20070303.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:TWBC_Taiwanese_fried_chicken_20070303.jpg",
+    "artist": "JeanHavoc",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "id": "pig-blood-cake",
+    "filename": "寧夏夜市豬血糕_20191226.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E5%AF%A7%E5%A4%8F%E5%A4%9C%E5%B8%82%E8%B1%AC%E8%A1%80%E7%B3%95_20191226.jpg",
+    "artist": "Mx. Granger",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "sausage-in-sausage",
+    "filename": "Small_sausage_in_large_sausage_2004-09-05.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Small_sausage_in_large_sausage_2004-09-05.jpg",
+    "artist": "Kaihsu Tai",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "id": "pepper-bun",
+    "filename": "Pepper_bun_at_Raohe_Street_Night_Market_20070622.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Pepper_bun_at_Raohe_Street_Night_Market_20070622.jpg",
+    "artist": "竹筍弟弟",
+    "license": "Copyrighted free use",
+    "licenseUrl": ""
+  },
+  {
+    "id": "sweet-potato-balls",
+    "filename": "地瓜球.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E5%9C%B0%E7%93%9C%E7%90%83.jpg",
+    "artist": "Ianbu",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "dan-bing",
+    "filename": "Dan_Bing_(Taiwanese_egg_crepe).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Dan_Bing_(Taiwanese_egg_crepe).jpg",
+    "artist": "Joy",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "fan-tuan",
+    "filename": "CiFanTuan2.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:CiFanTuan2.jpg",
+    "artist": "Galaxyharrylion",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": "run-bing",
+    "filename": "台灣潤餅.JPG",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E7%81%A3%E6%BD%A4%E9%A4%85.JPG",
+    "artist": "Fcuk1203",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": "grilled-king-oyster-mushrooms",
+    "filename": "三杯杏鮑菇製程_01.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E4%B8%89%E6%9D%AF%E6%9D%8F%E9%AE%91%E8%8F%87%E8%A3%BD%E7%A8%8B_01.jpg",
+    "artist": "FireFeather",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "grilled-quail-eggs",
+    "filename": "淡水老街魩仔魚烤鳥蛋.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E6%B7%A1%E6%B0%B4%E8%80%81%E8%A1%97%E9%AD%A9%E4%BB%94%E9%AD%9A%E7%83%A4%E9%B3%A5%E8%9B%8B.jpg",
+    "artist": "Rockhsp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "charcoal-grilled-corn",
+    "filename": "Taiwanese_corn_on_the_cob.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Taiwanese_corn_on_the_cob.jpg",
+    "artist": "NeoBatfreak",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "tian-bu-la",
+    "filename": "Tianbula_sausages.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Tianbula_sausages.jpg",
+    "artist": "Fumikas Sagisavas",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en"
+  },
+  {
+    "id": "iron-eggs",
+    "filename": "Iron_Eggs_clone_compared_to_a_5_minutes_coocked_and_peeled_chicken_egg_IMG_0263.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Iron_Eggs_clone_compared_to_a_5_minutes_coocked_and_peeled_chicken_egg_IMG_0263.jpg",
+    "artist": "Hans Haase",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "coffin-bread",
+    "filename": "Coffin_bread_-_Tainan,_Taiwan_(2017).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Coffin_bread_-_Tainan%2C_Taiwan_(2017).jpg",
+    "artist": "Riblet15",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "oyster-fritter",
+    "filename": "蚵嗲_oyster_fritter.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E8%9A%B5%E5%97%B2_oyster_fritter.jpg",
+    "artist": "Rick888chen",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "pan-fried-bun",
+    "filename": "北投石牌商城-生煎包09_(27558770616).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E5%8C%97%E6%8A%95%E7%9F%B3%E7%89%8C%E5%95%86%E5%9F%8E-%E7%94%9F%E7%85%8E%E5%8C%8509_(27558770616).jpg",
+    "artist": "羽諾 諾咪",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "red-bean-pancake",
+    "filename": "2010-02-18_Imagawayaki_vendor_in_Tainan,_Taiwan.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:2010-02-18_Imagawayaki_vendor_in_Tainan%2C_Taiwan.jpg",
+    "artist": "eazytraveler",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "fish-ball-soup",
+    "filename": "九份五味綜合魚丸湯_-_panoramio.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E4%B9%9D%E4%BB%BD%E4%BA%94%E5%91%B3%E7%B6%9C%E5%90%88%E9%AD%9A%E4%B8%B8%E6%B9%AF_-_panoramio.jpg",
+    "artist": "米田賢一",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  {
+    "id": "milkfish-soup",
+    "filename": "Taiwanese_khong_bah_png,_Tofu,_Milkfish_Skin_Soup.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Taiwanese_khong_bah_png%2C_Tofu%2C_Milkfish_Skin_Soup.jpg",
+    "artist": "迷惘的人生",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "sesame-oil-kidney",
+    "filename": "炒腰花-云南昆明.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E7%82%92%E8%85%B0%E8%8A%B1-%E4%BA%91%E5%8D%97%E6%98%86%E6%98%8E.jpg",
+    "artist": "tak.wing",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "angelica-duck",
+    "filename": "Food_當歸鴨腿麵線,_紹興醉鴨,_鴨肉飯,_四號乾麵,_土庫當歸鴨,_台北_(23375244874).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Food_%E7%95%B6%E6%AD%B8%E9%B4%A8%E8%85%BF%E9%BA%B5%E7%B7%9A%2C_%E7%B4%B9%E8%88%88%E9%86%89%E9%B4%A8%2C_%E9%B4%A8%E8%82%89%E9%A3%AF%2C_%E5%9B%9B%E8%99%9F%E4%B9%BE%E9%BA%B5%2C_%E5%9C%9F%E5%BA%AB%E7%95%B6%E6%AD%B8%E9%B4%A8%2C_%E5%8F%B0%E5%8C%97_(23375244874).jpg",
+    "artist": "bryan... from Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "stinky-hotpot",
+    "filename": "Pork_with_Pickled_Cabbage_Hot_Pot_(Taiwan).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Pork_with_Pickled_Cabbage_Hot_Pot_(Taiwan).jpg",
+    "artist": "Ralff Nestor Nacor",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "hot-pot",
+    "filename": "Hot_Pot.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Hot_Pot.jpg",
+    "artist": "Praneeth Thalla",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "pork-rib-soup",
+    "filename": "Food_排骨酥湯,_何家排骨酥,_台北_(14331508265).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Food_%E6%8E%92%E9%AA%A8%E9%85%A5%E6%B9%AF%2C_%E4%BD%95%E5%AE%B6%E6%8E%92%E9%AA%A8%E9%85%A5%2C_%E5%8F%B0%E5%8C%97_(14331508265).jpg",
+    "artist": "bryan... from Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "medicinal-ribs-soup",
+    "filename": "藥燉排骨.JPG",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E8%97%A5%E7%87%89%E6%8E%92%E9%AA%A8.JPG",
+    "artist": "Suzuki1314 at Chinese Wikipedia",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  {
+    "id": "ginger-duck-pot",
+    "filename": "Quanzhou-style_Kiuⁿ-bó-ah_(Ginger_Duck)_at_Yipin_Xiangqing_Restaurant,_Beijing_(20240908174515).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Quanzhou-style_Kiu%E2%81%BF-b%C3%B3-ah_(Ginger_Duck)_at_Yipin_Xiangqing_Restaurant%2C_Beijing_(20240908174515).jpg",
+    "artist": "N509FZ",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "teppanyaki",
+    "filename": "淡水名廚「無煙」鐵板燒.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E6%B7%A1%E6%B0%B4%E5%90%8D%E5%BB%9A%E3%80%8C%E7%84%A1%E7%85%99%E3%80%8D%E9%90%B5%E6%9D%BF%E7%87%92.jpg",
+    "artist": "SoniaManasa",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "braised-tofu",
+    "filename": "Billyfoodtofu1.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Billyfoodtofu1.jpg",
+    "artist": "Archon6812",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": "braised-cabbage",
+    "filename": "Food_白菜滷,_鵝肉川,_台北_(25195019195).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Food_%E7%99%BD%E8%8F%9C%E6%BB%B7%2C_%E9%B5%9D%E8%82%89%E5%B7%9D%2C_%E5%8F%B0%E5%8C%97_(25195019195).jpg",
+    "artist": "bryan... from Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "stir-fried-sweet-potato-leaves",
+    "filename": "Sweet_Potato_Leaf,_Taichung,_Taiwan_02.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Sweet_Potato_Leaf%2C_Taichung%2C_Taiwan_02.jpg",
+    "artist": "FireFeather",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "stir-fried-water-snowflake",
+    "filename": "Nymphoides_hydrophylla_7918.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Nymphoides_hydrophylla_7918.jpg",
+    "artist": "Vengolis",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "squid-thick-soup",
+    "filename": "Cuttlefish_geng_(28056785755).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Cuttlefish_geng_(28056785755).jpg",
+    "artist": "bryan... from Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "pork-meatball-soup",
+    "filename": "貢丸米粉湯.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E8%B2%A2%E4%B8%B8%E7%B1%B3%E7%B2%89%E6%B9%AF.jpg",
+    "artist": "Mingwangx at Chinese Wikipedia",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "id": "shaved-ice",
+    "filename": "Taiwanese_Shaved_Ice_-_Taipei.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Taiwanese_Shaved_Ice_-_Taipei.jpg",
+    "artist": "Beverly Leu",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": "mango-shaved-ice",
+    "filename": "Taipei_mangguobing.JPG",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Taipei_mangguobing.JPG",
+    "artist": "(WT-en) SuperMidget at English Wikivoyage",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  {
+    "id": "pineapple-butter-bun",
+    "filename": "Pineapple_buns.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Pineapple_buns.jpg",
+    "artist": "Party Lin",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "tofu-pudding",
+    "filename": "Douhua(豆花).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Douhua(%E8%B1%86%E8%8A%B1).jpg",
+    "artist": "Hiroooooo",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "taro-balls",
+    "filename": "Taro_Balls_at_Jiufen,_New_Taipei_City,_Sept_2011.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Taro_Balls_at_Jiufen%2C_New_Taipei_City%2C_Sept_2011.jpg",
+    "artist": "Raychang27",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": "mitaimu-jelly",
+    "filename": "Xionghejia_-_炒米苔目.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Xionghejia_-_%E7%82%92%E7%B1%B3%E8%8B%94%E7%9B%AE.jpg",
+    "artist": "Francesc Fort",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "chocolate-pineapple-bread",
+    "filename": "Pineapple_bun_from_Heung_Heung_Bakery_HK.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Pineapple_bun_from_Heung_Heung_Bakery_HK.jpg",
+    "artist": "Peachyeung316",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "pineapple-cake",
+    "filename": "TaiwanesePineappleCake.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:TaiwanesePineappleCake.jpg",
+    "artist": "Original uploader; Kwb at ja.Wikipedia",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  {
+    "id": "sun-cake",
+    "filename": "Suncake.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Suncake.jpg",
+    "artist": "Meguromaguro",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "peanut-ice-cream-roll",
+    "filename": "A-Zhu_Peanut_Ice_Cream_Roll,_Jiufen_Old_Street,_2024.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:A-Zhu_Peanut_Ice_Cream_Roll%2C_Jiufen_Old_Street%2C_2024.jpg",
+    "artist": "Another Believer",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "aiyu-jelly",
+    "filename": "Aiyu_jelly_by_abon_in_Taiwan.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Aiyu_jelly_by_abon_in_Taiwan.jpg",
+    "artist": "abon from Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "mochi",
+    "filename": "Mochi_002.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Mochi_002.jpg",
+    "artist": "Kropsoq",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "http://creativecommons.org/licenses/by-sa/3.0/"
+  },
+  {
+    "id": "papaya-milk",
+    "filename": "Papaya_Milk_and_Watermelon_Milk_at_Beigang,_Yunlin,_Taiwan.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Papaya_Milk_and_Watermelon_Milk_at_Beigang%2C_Yunlin%2C_Taiwan.jpg",
+    "artist": "bryan...",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "grass-jelly-drink",
+    "filename": "Es_Cincau.JPG",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Es_Cincau.JPG",
+    "artist": "Gunawan Kartapranata",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": "bubble-milk-tea",
+    "filename": "Classic_bubble_tea.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Classic_bubble_tea.jpg",
+    "artist": "Oqmilteashop",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": "winter-melon-tea",
+    "filename": "White_Gourd_and_White_Gourd_Drink.JPG",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:White_Gourd_and_White_Gourd_Drink.JPG",
+    "artist": "竹筍弟弟",
+    "license": "Copyrighted free use",
+    "licenseUrl": ""
+  },
+  {
+    "id": "guava-juice",
+    "filename": "Guava_juice_(3110765359).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Guava_juice_(3110765359).jpg",
+    "artist": "Eugene Peretz from Northampton, MA, USA",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "starfruit-juice",
+    "filename": "Averrhoa_carambola_ARS_k5735-7.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Averrhoa_carambola_ARS_k5735-7.jpg",
+    "artist": "Unknown",
+    "license": "Public domain",
+    "licenseUrl": ""
+  },
+  {
+    "id": "brown-rice-milk",
+    "filename": "A_glass_of_rice_milk.JPG",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:A_glass_of_rice_milk.JPG",
+    "artist": "Spinoziano",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": "taiwan-beer-18",
+    "filename": "2009-12-30_bottle_of_Taiwan_Beer_on_restaurant_table_in_Grand_Hotel_Taipei.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:2009-12-30_bottle_of_Taiwan_Beer_on_restaurant_table_in_Grand_Hotel_Taipei.jpg",
+    "artist": "takuma mori",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "kyoho-grape",
+    "filename": "Japan's_Kyoho_Grapes.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Japan's_Kyoho_Grapes.jpg",
+    "artist": "Grialte (Jennie Kondo - Jennie Valdivieso Kondo)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": "sugarcane-juice",
+    "filename": "Sugarcanejuice.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Sugarcanejuice.jpg",
+    "artist": "Food Trails",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "herbal-tea",
+    "filename": "A_display_of_Chinese_herbal_tea.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:A_display_of_Chinese_herbal_tea.jpg",
+    "artist": "Pauloleong2002",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "sour-plum-juice",
+    "filename": "New_Park_Plum_Juice_公園號酸梅湯_-_panoramio.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:New_Park_Plum_Juice_%E5%85%AC%E5%9C%92%E8%99%9F%E9%85%B8%E6%A2%85%E6%B9%AF_-_panoramio.jpg",
+    "artist": "lienyuan lee",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  {
+    "id": "danzai-noodles",
+    "filename": "Tan_Tsai_Noodle_of_Tu_Hsiao_Yueh.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Tan_Tsai_Noodle_of_Tu_Hsiao_Yueh.jpg",
+    "artist": "Koika",
+    "license": "CC BY-SA 1.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/1.0"
+  },
+  {
+    "id": "hakka-ban-tiao",
+    "filename": "湯粄條.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E6%B9%AF%E7%B2%84%E6%A2%9D.jpg",
+    "artist": "Sean Chiu",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "taiwanese-bento",
+    "filename": "台鐵便當_(6560220121).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E9%90%B5%E4%BE%BF%E7%95%B6_(6560220121).jpg",
+    "artist": "Cheng-en Cheng from Taipei City, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "boiled-dumplings",
+    "filename": "水餃_-_panoramio.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E6%B0%B4%E9%A4%83_-_panoramio.jpg",
+    "artist": "Tianmu peter",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  {
+    "id": "hakka-stir-fry",
+    "filename": "客家小炒02.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E5%AE%A2%E5%AE%B6%E5%B0%8F%E7%82%9202.jpg",
+    "artist": "EAT&amp;ART TARO",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "bamboo-tube-rice",
+    "filename": "竹筒飯和炸溪魚.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E7%AB%B9%E7%AD%92%E9%A3%AF%E5%92%8C%E7%82%B8%E6%BA%AA%E9%AD%9A.jpg",
+    "artist": "Allervous",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "oil-rice",
+    "filename": "櫻花蝦油飯_(9654708834).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E6%AB%BB%E8%8A%B1%E8%9D%A6%E6%B2%B9%E9%A3%AF_(9654708834).jpg",
+    "artist": "Amanda from 新北市, 台灣",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "rice-noodle-soup",
+    "filename": "Food_米粉湯,_炸蝦仁,_炸蚵仔,_炸魚片,_炸豆腐,_蘿蔔糕,_糯米腸,_老店米粉湯,_台北_(21626330268).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Food_%E7%B1%B3%E7%B2%89%E6%B9%AF%2C_%E7%82%B8%E8%9D%A6%E4%BB%81%2C_%E7%82%B8%E8%9A%B5%E4%BB%94%2C_%E7%82%B8%E9%AD%9A%E7%89%87%2C_%E7%82%B8%E8%B1%86%E8%85%90%2C_%E8%98%BF%E8%94%94%E7%B3%95%2C_%E7%B3%AF%E7%B1%B3%E8%85%B8%2C_%E8%80%81%E5%BA%97%E7%B1%B3%E7%B2%89%E6%B9%AF%2C_%E5%8F%B0%E5%8C%97_(21626330268).jpg",
+    "artist": "bryan... from Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "scallion-hand-pancake",
+    "filename": "台灣蔥抓餅.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E5%8F%B0%E7%81%A3%E8%94%A5%E6%8A%93%E9%A4%85.jpg",
+    "artist": "Levent0521",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "lu-wei",
+    "filename": "2007-10-24_Lou_Mei_in_Taipei.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:2007-10-24_Lou_Mei_in_Taipei.jpg",
+    "artist": "Yun Huang Yong",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "century-egg-tofu",
+    "filename": "Tofu_with_Century_Egg_02.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Tofu_with_Century_Egg_02.jpg",
+    "artist": "Tbatb",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "potstickers",
+    "filename": "Food_鮮肉鍋貼,_良品牛肉麵,_台北_(13511535434).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Food_%E9%AE%AE%E8%82%89%E9%8D%8B%E8%B2%BC%2C_%E8%89%AF%E5%93%81%E7%89%9B%E8%82%89%E9%BA%B5%2C_%E5%8F%B0%E5%8C%97_(13511535434).jpg",
+    "artist": "bryan... from Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "radish-cake",
+    "filename": "煎蘿蔔糕_台北_2018_(26369946257).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E7%85%8E%E8%98%BF%E8%94%94%E7%B3%95_%E5%8F%B0%E5%8C%97_2018_(26369946257).jpg",
+    "artist": "bryan... from Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "a-gei",
+    "filename": "Agei.JPG",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Agei.JPG",
+    "artist": "The original uploader was Seasurfer at Chinese Wikipedia.",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "salty-water-chicken",
+    "filename": "鹹水雞_Kiâm-tsuí-ke.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E9%B9%B9%E6%B0%B4%E9%9B%9E_Ki%C3%A2m-tsu%C3%AD-ke.jpg",
+    "artist": "Catherine Liao",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "grilled-sausage",
+    "filename": "HKCEC_WC_HKTDC_Food_Expo_2009_Shineway_Taiwanese_BBQ_Sausages.JPG",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:HKCEC_WC_HKTDC_Food_Expo_2009_Shineway_Taiwanese_BBQ_Sausages.JPG",
+    "artist": "Faroclom",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": "squid-balls",
+    "filename": "Food_澎湖花枝丸,_曉琳食堂,_台北_(19814409766).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Food_%E6%BE%8E%E6%B9%96%E8%8A%B1%E6%9E%9D%E4%B8%B8%2C_%E6%9B%89%E7%90%B3%E9%A3%9F%E5%A0%82%2C_%E5%8F%B0%E5%8C%97_(19814409766).jpg",
+    "artist": "bryan... from Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "ding-bian-cuo",
+    "filename": "TienPienTso.JPG",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:TienPienTso.JPG",
+    "artist": "竹筍弟弟",
+    "license": "Copyrighted free use",
+    "licenseUrl": ""
+  },
+  {
+    "id": "pig-blood-soup",
+    "filename": "昌吉街豬血湯_20080524.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E6%98%8C%E5%90%89%E8%A1%97%E8%B1%AC%E8%A1%80%E6%B9%AF_20080524.jpg",
+    "artist": "臺北市大同區公所",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  {
+    "id": "mala-hotpot",
+    "filename": "Food_炭火麻辣鍋,_藥膳麻辣鍋,_麻辣鍋,_鴛鴦鍋,_魯旦川鍋,_魯旦,_川鍋,_台北_(24675740145).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Food_%E7%82%AD%E7%81%AB%E9%BA%BB%E8%BE%A3%E9%8D%8B%2C_%E8%97%A5%E8%86%B3%E9%BA%BB%E8%BE%A3%E9%8D%8B%2C_%E9%BA%BB%E8%BE%A3%E9%8D%8B%2C_%E9%B4%9B%E9%B4%A6%E9%8D%8B%2C_%E9%AD%AF%E6%97%A6%E5%B7%9D%E9%8D%8B%2C_%E9%AD%AF%E6%97%A6%2C_%E5%B7%9D%E9%8D%8B%2C_%E5%8F%B0%E5%8C%97_(24675740145).jpg",
+    "artist": "bryan... from Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "four-spirits-soup",
+    "filename": "阿桐阿寶四神湯_20080524.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E9%98%BF%E6%A1%90%E9%98%BF%E5%AF%B6%E5%9B%9B%E7%A5%9E%E6%B9%AF_20080524.jpg",
+    "artist": "臺北市大同區公所",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0"
+  },
+  {
+    "id": "mutton-hotpot",
+    "filename": "Food_羊肉爐,_小德張羊肉爐,_台北_(24252270025).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Food_%E7%BE%8A%E8%82%89%E7%88%90%2C_%E5%B0%8F%E5%BE%B7%E5%BC%B5%E7%BE%8A%E8%82%89%E7%88%90%2C_%E5%8F%B0%E5%8C%97_(24252270025).jpg",
+    "artist": "bryan... from Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "egg-drop-soup",
+    "filename": "Egg_drop_soup_(蛋花湯).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Egg_drop_soup_(%E8%9B%8B%E8%8A%B1%E6%B9%AF).jpg",
+    "artist": "NeoBatfreak",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "mugwort-rice-cake",
+    "filename": "草仔粿.JPG",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E8%8D%89%E4%BB%94%E7%B2%BF.JPG",
+    "artist": "賴亮名",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0"
+  },
+  {
+    "id": "hot-grass-jelly",
+    "filename": "Grass_Jelly_with_Assorted_Fruit.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Grass_Jelly_with_Assorted_Fruit.jpg",
+    "artist": "Ceeseven",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "mung-bean-soup",
+    "filename": "Food_綠豆湯,_冰糖銀耳,_阿猜嬤,_甜湯鹹圓,_台北_(17296663148).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Food_%E7%B6%A0%E8%B1%86%E6%B9%AF%2C_%E5%86%B0%E7%B3%96%E9%8A%80%E8%80%B3%2C_%E9%98%BF%E7%8C%9C%E5%AC%A4%2C_%E7%94%9C%E6%B9%AF%E9%B9%B9%E5%9C%93%2C_%E5%8F%B0%E5%8C%97_(17296663148).jpg",
+    "artist": "bryan... from Taipei, Taiwan",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "ox-tongue-cookies",
+    "filename": "Ox-tongue-shaped_pastry_in_Lukang.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Ox-tongue-shaped_pastry_in_Lukang.jpg",
+    "artist": "neverbutterfly",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0"
+  },
+  {
+    "id": "bubble-ice",
+    "filename": "Wongwt_一心泡泡冰_(16552539017).jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:Wongwt_%E4%B8%80%E5%BF%83%E6%B3%A1%E6%B3%A1%E5%86%B0_(16552539017).jpg",
+    "artist": "Wei-Te Wong from Taipei City, Taiwan, Republic of China",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0"
+  },
+  {
+    "id": "nougat",
+    "filename": "TW_台灣_Taiwan_台中_Tai_Chung_手信_gift_法式牛軋糖_Sugar_June_2019_SSG_01.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:TW_%E5%8F%B0%E7%81%A3_Taiwan_%E5%8F%B0%E4%B8%AD_Tai_Chung_%E6%89%8B%E4%BF%A1_gift_%E6%B3%95%E5%BC%8F%E7%89%9B%E8%BB%8B%E7%B3%96_Sugar_June_2019_SSG_01.jpg",
+    "artist": "Lusfmwni",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  },
+  {
+    "id": "hakka-lei-tea",
+    "filename": "客家擂茶.jpg",
+    "descriptionUrl": "https://commons.wikimedia.org/wiki/File:%E5%AE%A2%E5%AE%B6%E6%93%82%E8%8C%B6.jpg",
+    "artist": "氏子",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0"
+  }
+]
